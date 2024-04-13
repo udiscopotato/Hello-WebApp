@@ -11,7 +11,7 @@
 	</style>
 <body>
 	<div>
-		<h1>Hello! This is Version: 1</h1>
+		<h1>Hello! This is Version: 2</h1>
 		<h3>JSpider Kubernetes Task</h3>
 	</div>
 </body>
