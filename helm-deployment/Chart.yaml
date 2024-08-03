@@ -1,0 +1,10 @@
+apiVersion: v2
+name: helm-deployment
+description: Demo helm chart for this application
+type: application
+version: 0.1.0
+  #appVersion: "1.16.0"
+icon: https://t3.ftcdn.net/jpg/02/09/65/14/360_F_209651427_Moux8Hkey15wtMbtLymbPPrdrLhm58fH.jpg
+maintainers:
+  - email: subhamjena68@gmail.com
+    name: Subham
